@@ -8,15 +8,13 @@ This project provides tools for processing customer data.
 
 1. Clone the repository.
 2. Install dependencies:
-
-```
-npm install
-```
+   ```bash
+   npm install
+   ```
 3. Start the application:
-
-```
-npm start
-```
+   ```bash
+   npm start
+   ```
 
 ## Configuration
 
