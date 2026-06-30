@@ -2,28 +2,29 @@
 
 ## Overview
 
-This project provides tools for processing customer data with enhanced analytics.
+This project provides tools for processing customer data.
 
 ## Installation
 
 1. Clone the repository.
 2. Install dependencies:
-```bash
-npm ci
+
 ```
-3. Run the development server:
-```bash
-npm run dev
+npm install
+```
+3. Start the application:
+
+```
+npm start
 ```
 
 ## Configuration
 
-Configure these environment variables:
+Set the following environment variables:
 
-- `API_URL=https://staging-api.example.com`
-- `LOG_LEVEL=debug`
-- `FEATURE_FLAGS=true`
+- `API_URL=https://api.example.com`
+- `LOG_LEVEL=info`
 
 ## Contributing
 
-Please create a draft pull request before requesting review.
+Please open an issue before submitting a pull request.
