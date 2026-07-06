@@ -1,5 +1,5 @@
 # Project Notes
-Status: I am creating a merge conflict.
+Status: Draft.
 ## Overview
 
 This project provides tools for processing customer data.
