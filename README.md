@@ -1,5 +1,4 @@
 # Project Notes
-Status: Draft.
 Status: I am creating a merge conflict.
 ## Overview
 
