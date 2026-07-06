@@ -15,6 +15,7 @@ This project provides tools for processing customer data.
    ```bash
    npm start
    ```
+4. Profit?
 
 ## Configuration
 
